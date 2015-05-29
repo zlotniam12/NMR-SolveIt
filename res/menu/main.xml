@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	  <item android:id="@+id/action_Lock"
+          android:title="Lock" 
+          android:icon="@drawable/ic_action_locked"
+          android:showAsAction="always"/>
+      <item android:id="@+id/action_NMR"
+          android:title=" Show NMR"
+          android:showAsAction="never"/>
+    <item android:id="@+id/action_IR"
+          android:title="Show IR" 
+          android:showAsAction="never"/>
+    <item android:id="@+id/action_CNMR"
+          android:title=" Show CNMR" 
+          android:showAsAction="never"/>
+    <item android:id="@+id/action_Reset"
+          android:title=" Reset Questions" 
+          android:showAsAction="never"/>
+    
+    
+
+</menu>
