@@ -40,6 +40,7 @@ import android.widget.Toast;
 
 public class AnswerDialog extends FragmentActivity implements OnClickListener {
 	String push;
+    String test;
 	EditText mEditText;
 String qAns, qBody=" h" ,correct , ansCorrect,path;
 TextView qData, feedback ,tvAns;
